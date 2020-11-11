@@ -30,13 +30,9 @@ Plug 'godlygeek/tabular'
 let g:vim_markdown_math = 1
 let g:vim_markdown_no_extensions_in_markdown = 1
 let g:vim_markdown_autowrite = 1
-"let g:vim_markdown_folding_disabled = 1
-"let g:vim_markdown_auto_insert_bullets = 1
-"let g:vim_markdown_new_list_item_indent = 0
 
 "Bullets
 Plug 'dkarter/bullets.vim'
-" Bullets.vim
 let g:bullets_enabled_file_types = ['markdown', 'text']
 
 "Goyo
