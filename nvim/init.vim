@@ -1,4 +1,5 @@
 "Dark Skoll Config
+"Prueba para ver como ir de laptop a main
 "Plugins
 "VimPlug
 call plug#begin('$XDG_DATA_HOME/nvim/site/autoload')
