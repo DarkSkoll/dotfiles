@@ -1,0 +1,125 @@
+!Fonts
+!Liberation
+*.font: Liberation Mono:size=13
+
+
+! Custom Colors
+! DarkSkoll
+! COLORS
+!*foreground:   #c5c5c5
+!*background:   #262626
+!*cursorColor:  #c5c5c5
+! black
+!*color0:       #1c1c1c
+!*color8:       #666666
+! red
+!*color1:       #ff005b
+!*color9:       #ff00a0
+! green
+!*color2:       #cee318
+!*color10:      #ccff00
+! yellow
+!*color3:       #ffe755
+!*color11:      #ff9f00
+! blue
+!*color4:       #048ac7
+!*color12:      #48c6ff
+! magenta
+!*color5:       #833c9f
+!*color13:      #be67e1
+! cyan
+!*color6:       #0ac1cd
+!*color14:      #63e7f0
+! white
+!*color7:       #e5e5e5
+!*color15:      #f3f3f3
+
+
+!!arc colors
+!*background:    #2f343f
+!*foreground:    #d7d7d7
+!*cursorColor:   #c7c7c7
+!! black
+!*.color0:       #383c4a
+!*.color8:       #383c4a
+!! red
+!*.color1:       #e28d9d
+!*.color9:       #e28d9d
+!! green
+!*.color2:       #bfd888
+!*.color10:      #bfd888
+!! yellow
+!*.color3:       #df936c
+!*.color11:      #df936c
+!! blue
+!*.color4:       #5294e2
+!*.color12:      #5294e2
+! magenta
+!*.color5:       #f74771
+!*.color13:      #f74771
+!! cyan
+!*.color6:       #7c818c
+!*.color14:      #7c818c
+!! white
+!*.color7:       #d7d7d7
+!*.color15:      #d7d7d7
+
+!! Tender
+!*.foreground:   #eeeeee
+!*.background:   #282828
+!*.cursorColor:  #eeeeee
+!! black
+!*.color0:       #282828
+!*.color8:       #4c4c4c
+!! red
+!*.color1:       #f43753
+!*.color9:       #f43753
+!! green
+!*.color2:       #c9d05c
+!*.color10:      #c9d05c
+!! yellow
+!*.color3:       #ffc24b
+!*.color11:      #ffc24b
+!! blue
+!*.color4:       #b3deef
+!*.color12:      #b3deef
+!! magenta
+!*.color5:       #d3b987
+!*.color13:      #d3b987
+!! cyan
+!*.color6:       #73cef4
+!*.color14:      #73cef4
+!! white
+!*.color7:       #eeeeee
+!*.color15:      #feffff
+
+!!Sonokai
+*.background: #2d2a2e
+*.foreground: #e3e1e4
+*.cursorColor: #e3e1e4
+*.selbackground: #7accd7
+*.selforeground: #2d2a2e
+!Black
+*.color0: #1a181a
+*.color8: #848089
+!Red
+*.color1: #f85e84
+*.color9: #f85e84
+!Green
+*.color2: #9ecd6f
+*.color10: #9ecd6f
+!Yellow
+*.color3: #e5c463
+*.color11: #e5c463
+!Blue
+*.color4: #7accd7
+*.color12: #7accd7
+!Magenta
+*.color5: #ab9df2
+*.color13: #ab9df2
+!Cyan
+*.color6: #ef9062
+*.color14: #ef9062
+!White
+*.color7: #e3e1e4
+*.color15: #e3e1e4
