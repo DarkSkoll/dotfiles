@@ -2,6 +2,7 @@
 XDG_CONFIG_HOME     OVERRIDE=@{HOME}/.local/dotfiles
 XDG_CACHE_HOME      OVERRIDE=@{HOME}/.local/cache
 XDG_DATA_HOME       OVERRIDE=@{HOME}/.local/share
+XDG_RUNTIME_DIR     OVERRIDE=@{HOME}/.local/runtime
 PATH                OVERRIDE=${PATH}:@{HOME}/.local/scripts
 
 #Change file location
