@@ -1,6 +1,6 @@
 !Fonts
 !Liberation
-*.font: Liberation Mono:size=13
+*.font: Iosevka:size=15
 
 
 ! Custom Colors
