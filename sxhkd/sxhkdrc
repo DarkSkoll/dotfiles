@@ -11,8 +11,7 @@ super + Return
 
 ###Dmenu
 super + d
-#    rofi -show drun -show-icons
-    rofi -show drun
+   dmenu_run
 
 ###Scrot
 Print
