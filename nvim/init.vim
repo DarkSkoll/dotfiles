@@ -19,7 +19,6 @@ Plug 'honza/vim-snippets'
 
 "Colorscheme
 Plug 'sainnhe/sonokai'
-let g:sonokai_style = 'shusia'
 
 "Surround
 Plug 'tpope/vim-surround'
