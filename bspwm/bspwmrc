@@ -1,8 +1,7 @@
 #! /bin/sh
 
 sxhkd &
-xwallpaper --maximize ~/pictures/wallpaper &
-date.sh &
+xwallpaper --maximize ~/.local/dotfiles/wallpaper &
 wmname LG3D &
 
 bspc monitor -d I II III IV V VI VII VIII IX X
@@ -19,4 +18,3 @@ bspc config window_gap 15
 ##Windows Rules
 bspc config automatic_scheme longest_side
 bspc rule -a Zathura state=tiled
-bspc rule -a XCalc state=floating
