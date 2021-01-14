@@ -10,11 +10,15 @@ super + Return
     st
 
 ###Dmenu
+###Launcher
 super + d
    dmenu_run
-
+###Bookmarks
 super + b
     bookmarks.sh
+###Youtube
+super + p
+    youtube.sh
 
 ###Scrot
 Print
