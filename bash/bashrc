@@ -30,6 +30,9 @@ n(){
         rm -f "$NNN_TMPFILE" > /dev/null
     fi
 }
+
+#alias
 alias nnn='n -Ceo'
 alias ls="ls --group-directories-first --color=always"
 alias bc='bc -lq'
+alias newsboat='newsboat -r -u "$XDG_CONFIG_HOME/newsboat/urls" -C "$XDG_CONFIG_HOME/newsboat/config"'
