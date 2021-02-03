@@ -10,6 +10,10 @@ let g:airline_theme = 'sonokai'
 "Autopairs
 Plug 'jiangmiao/auto-pairs'
 
+"Hexokinase
+"Install go
+Plug 'rrethy/vim-hexokinase', { 'do': 'make hexokinase' }
+
 "Snippets
 Plug 'sirver/ultisnips'
 let g:UltiSnipsExpandTrigger = '<tab>'
